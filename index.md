@@ -2,18 +2,19 @@
 
 这是我的第一个博客
 
-You can use the [editor on GitHub](https://github.com/liuxiaoran1/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 创建流程
-  建立仓库
-  调整settings-pages
-  选择用户
-  确定，找到网页，发布ok
+— 建立GitHub账户
+— 建立仓库
+— 调整settings-pages
+— 选择用户
+— 确定，找到网页，发布ok
+
+You can use the [editor on GitHub](https://github.com/liuxiaoran1/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.  
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 笔记
 
-笔记
 笔记一二三
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
